@@ -148,6 +148,7 @@ sleep 1
 echo -e "${blue}its ${green}$timee${rst}"
 
 sleep 1
+# heheh 😅 i love t-headers ps1, so i used it, ps1 cradit goes to remo773 
 PS1='
 \[\033[0;31m\]┌─[\[\033[1;34m\]$nm\[\033[1;33m\]@\[\033[1;36m\]dark_gang\[\033[0;31m\]]─[\[\033[0;32m\]\w\[\033[0;31m\]]
 \[\033[0;31m\]└──╼ \[\e[1;31m\]❯\[\e[1;34m\]❯\[\e[1;90m\]❯\[\033[0m\] '
